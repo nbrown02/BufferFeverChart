@@ -1,6 +1,6 @@
 # Buffer Fever Chart for Jira (Cloud)
 ### What is it?
-This Power BI template is designed for teams using Jira (Cloud) who want to move beyond surface-level metrics and gain deeper insights into delivery health. It focuses on flow-based indicators rather than traditional measures like velocity. The core visual — the Buffer Fever Chart, is a tool that is used extensively in [TameFlow](https://tameflow.com/) and in Critical Chain Project Management (CCPM) used in the Theory of Constraints.
+This Power BI template is designed for teams using Jira (Cloud) who want to move beyond surface-level metrics and gain deeper insights into delivery health. It focuses on flow-based indicators rather than traditional measures like velocity. The core visual, the *Buffer Fever Chart*, is a tool that is used extensively in [TameFlow](https://tameflow.com/) and in Critical Chain Project Management (CCPM) used in the Theory of Constraints.
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
