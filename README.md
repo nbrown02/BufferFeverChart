@@ -1,11 +1,11 @@
 # Buffer Fever Chart for Jira (Cloud)
 ### What is it?
-This template is designed for Agile teams using Jira (Cloud) who want to move beyond surface-level metrics and gain deeper insights into delivery health. It focuses on flow-based indicators rather than traditional measures like velocity. The core visual — the Buffer Fever Chart, is a tool that is used extensively in [TameFlow](https://tameflow.com/) and in Critical Chain Project Management (CCPM) used in the Theory of Constraints.
+This Power BI template is designed for teams using Jira (Cloud) who want to move beyond surface-level metrics and gain deeper insights into delivery health. It focuses on flow-based indicators rather than traditional measures like velocity. The core visual — the Buffer Fever Chart, is a tool that is used extensively in [TameFlow](https://tameflow.com/) and in Critical Chain Project Management (CCPM) used in the Theory of Constraints.
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
-* Download the template file:
+* [Download the template file](https://github.com/nbrown02/BufferFeverChart/raw/refs/heads/main/Buffer%20Fever%20Chart%20(Jira).pbit)
 * Then you're good to get started!
 * Please note: I don’t store, use or have access to any of your data/information. It’s all within your machines/network :)
 
@@ -18,7 +18,7 @@ Don't confuse the project name with the project key, a common mistake! Your proj
 
 * It should then look something like this:
   
-![alt text](![image](https://github.com/user-attachments/assets/11dbdc26-fdcf-440b-b105-589557e697a5))
+![alt text](https://raw.githubusercontent.com/nbrown02/BufferFeverChart/refs/heads/main/Screenshot3.png)
 
 * Hit 'Load' 
 * You will be prompted for a login, choose Basic and enter:
@@ -38,9 +38,9 @@ For an introduction about the topic, read:
 
 ### Screenshots
 
-![alt text](![image](https://github.com/user-attachments/assets/a35b56c0-694f-4b14-9db9-50558867b3d8))
+![alt text](https://raw.githubusercontent.com/nbrown02/BufferFeverChart/refs/heads/main/Screenshot1.png)
 
-![alt text](![image](https://github.com/user-attachments/assets/efc5ce07-5fbc-46dd-85ff-edce9ed28480))
+![alt text](https://raw.githubusercontent.com/nbrown02/BufferFeverChart/refs/heads/main/Screenshot2.png)
 
 ### Assumptions, calculation and shortcomings behind the template
 #### Assumptions 
