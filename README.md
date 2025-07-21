@@ -47,7 +47,7 @@ For an introduction about the topic, read:
 - All Epics and their respective child items (typically Stories) are located in the same Jira project.
 - Your Jira workflow configuration correctly maps issue statuses to the standard status categories: To Do, In Progress, and Done.
 - Each day's snapshot reflects the current state of each epic's child items on that date. Epics are assumed to progress over time via incremental status updates.
-- Epics are owned by an individual twam (i.e. not shared)
+- Epics are owned by an individual team (i.e. not shared)
 
 #### Calculations/Logic
 - %Completed is based on the proportion of child items in the "Done" status category, calculated relative to the total (Done + In Progress + To Do).
@@ -64,7 +64,7 @@ For an introduction about the topic, read:
 - Assumes each child item carries equal weight; there's no adjustment for item size, complexity, or effort.
 - Outliers in story cycle times can skew the 85th percentile and inflate buffer sizes unless manually adjusted.
 - Forecasting assumes a constant throughput rate and does not account for planned pauses, dependencies, or resource shifts.
-- Power BI doesn't allow for the background RAG mapping directly in the charts, so it is a static baxkground image that may be slightly off - it as close to the scale/logic [documented here](https://tameflow.com/blog/2017-03-30/how-to-draw-buffer-fever-charts/) as possible
+- Power BI doesn't allow for the background RAG mapping directly in the charts, so it is a static background image that may be slightly off - it as close to the scale/logic [documented here](https://tameflow.com/blog/2017-03-30/how-to-draw-buffer-fever-charts/) as possible
 - This doesn't filter by team, if you have multiple teams within a Jira project you will need to modify the queries yourself to account for this
 
 ### Feedback
