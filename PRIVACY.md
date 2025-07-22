@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The FlowViz template for Jira is provided **free of charge** as an open-source resource to help teams visualize their workflow metrics. This template is a **static configuration file** and does **not** interact with user data, Jira instances, or external systems.
+The Buffer Fever Chart template for Jira is provided **free of charge** as an open-source resource to help teams visualize their workflow metrics. This template is a **static configuration file** and does **not** interact with user data, Jira instances, or external systems.
 
 ## Data Collection and Usage
 
-The FlowViz template does **not**:
+The Buffer Fever Chart template does **not**:
 - Collect, store, or transmit any user, company, or Jira instance data.
-- Require or request access to Jira API, authentication tokens, or user credentials.
+- Request access to Jira API, authentication tokens, or user credentials.
 - Include any code that tracks usage or connects to external services.
 
 Since this template is purely a configuration file, there is **no personal data processing, tracking, or analytics** involved.
@@ -29,4 +29,4 @@ As this template does not process or collect any data, changes to this privacy p
 
 ## Contact
 
-For any privacy-related inquiries, please open an issue in the repository: [GitHub Issues](https://github.com/nbrown02/FlowViz-Jira/issues).
+For any privacy-related inquiries, please open an issue in the repository: [GitHub Issues](https://github.com/nbrown02/BufferFeverChart/issues).
