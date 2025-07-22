@@ -2,7 +2,7 @@
 
 ## Overview
 
-The FlowViz template for Jira is provided **free of charge** and is designed to help teams visualize their workflow metrics more effectively. This template is a **static configuration file** and does **not** include any code that executes on Jira instances or external systems.
+The BufferFeverChart template for Jira is provided **free of charge** and is designed to help teams visualize their workflow metrics more effectively. This template is a **static configuration file** and does **not** include any code that executes on Jira instances or external systems.
 
 ## Data Privacy and Security
 
@@ -18,4 +18,4 @@ The FlowViz template for Jira is provided **free of charge** and is designed to 
 
 ## Reporting Security Concerns
 
-If you identify any potential security issues related to this template, please open an issue in this repository or contact us via [GitHub Issues](https://github.com/nbrown02/FlowViz-Jira/issues).
+If you identify any potential security issues related to this template, please open an issue in this repository or contact us via [GitHub Issues](https://github.com/nbrown02/BufferFeverChart/issues).
