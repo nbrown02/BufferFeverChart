@@ -6,6 +6,7 @@ This Power BI template is designed for teams using Jira (Cloud) who want to move
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
 * [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
 * [Download the template file](https://github.com/nbrown02/BufferFeverChart/raw/refs/heads/main/Buffer%20Fever%20Chart%20(Jira).pbit)
+* If you are a Mac user (or a user unable to install Power BI desktop) you can use the web-based template app [for Jira here](https://marketplace.microsoft.com/en-us/product/power-bi/thrivvepartners1747925071876.bufferfever)
 * Then you're good to get started!
 * Please note: I don’t store, use or have access to any of your data/information. It’s all within your machines/network :)
 
